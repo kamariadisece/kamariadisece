@@ -5,6 +5,9 @@ void about(){
 1) LinkedIn: Angelos Kamariadis ;
 2) Facebook: Άγγελος Καμαριάδης ;
 3) Instagram: kamariadis_ ;
+
+-------------------------------------
+- NOT AN ENGINEER ;
 -------------------------------------
 return 0;
 }
